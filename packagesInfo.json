@@ -57,9 +57,9 @@
     "ArchiveFormat": "phar",
     "Checksum": ""
   },
-  {
+  {	  
     "PackageID": 10,
-    "Name": "VC Runtime",
+    "Name": "vcruntime",
     "Version": "VC17",
     "DownloadUrl": "https://github.com/wampoon-box/wampoon-packages/raw/refs/heads/main/vc_runtime.zip",
     "ArchiveFormat": "zip",
