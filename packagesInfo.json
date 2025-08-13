@@ -9,8 +9,8 @@
   {
     "PackageID": 2,
     "Name": "MariaDB Server",
-    "Version": "11.8.2.0",
-    "DownloadUrl": "https://mirror.us.mirhosting.net/mariadb/mariadb-11.8.2/winx64-packages/mariadb-11.8.2-winx64.zip",
+    "Version": "11.8.3.0",
+    "DownloadUrl": "https://mirrors.accretive-networks.net/mariadb/mariadb-11.8.3/winx64-packages/mariadb-11.8.3-winx64.zip",
     "Checksum": ""
   },
   {
