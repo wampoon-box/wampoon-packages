@@ -9,22 +9,22 @@
   {
     "PackageID": 2,
     "Name": "MariaDB Server",
-    "Version": "11.8.3.0",
-    "DownloadUrl": "https://mirrors.accretive-networks.net/mariadb/mariadb-11.8.3/winx64-packages/mariadb-11.8.3-winx64.zip",
+    "Version": "11.8.5.0",
+    "DownloadUrl": "https://mirrors.accretive-networks.net/mariadb/mariadb-11.8.5/winx64-packages/mariadb-11.8.5-winx64.zip",
     "Checksum": ""
   },
   {
     "PackageID": 4,
     "Name": "PHP Runtime",
-    "Version": "8.4.10.0",
-    "DownloadUrl": "https://windows.php.net/downloads/releases/archives/php-8.4.10-Win32-vs17-x64.zip",
+    "Version": "8.5.0.0",
+    "DownloadUrl": "https://windows.php.net/downloads/releases/archives/php-8.5.0-Win32-vs17-x64.zip",    
     "Checksum": ""
   },
   {
     "PackageID": 5,
     "Name": "phpMyAdmin",
-    "Version": "5.2.2.0",
-    "DownloadUrl": "https://files.phpmyadmin.net/snapshots/phpMyAdmin-5.2+snapshot-all-languages.zip",
+    "Version": "5.2.3.0",
+    "DownloadUrl": "https://files.phpmyadmin.net/phpMyAdmin/5.2.3/phpMyAdmin-5.2.3-all-languages.zip",
     "Checksum": ""
   },
   {
@@ -51,8 +51,8 @@
   {
     "PackageID": 9,
     "Name": "Composer",
-    "Version": "2.8.10.0",
-    "DownloadUrl": "https://getcomposer.org/download/2.8.10/composer.phar",
+    "Version": "2.9.2.0",
+    "DownloadUrl": "https://getcomposer.org/download/2.9.2/composer.phar",
     "ArchiveFormat": "phar",
     "Checksum": ""
   },
