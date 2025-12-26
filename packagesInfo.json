@@ -30,14 +30,14 @@
   {
     "PackageID": 6,
     "Name": "wampoon-dashboard",
-    "Version": "0.1.1.0",
+    "Version": "1.0.0.0",
     "DownloadUrl": "https://github.com/wampoon-box/wampoon-dashboard/releases/latest/download/wampoon-dashboard.zip",
     "Checksum": ""
   },
   {
     "PackageID": 7,
     "Name": "Wampoon Control Panel",
-    "Version": "0.1.0.0",
+    "Version": "1.1.0.0",
     "DownloadUrl": "https://github.com/wampoon-box/wampoon-control/releases/latest/download/wampoon-control.zip",
     "Checksum": ""
   },
